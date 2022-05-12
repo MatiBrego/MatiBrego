@@ -1,6 +1,5 @@
 public class Track {
     int id;
-
     public int getId() {
         return id;
     }
