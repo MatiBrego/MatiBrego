@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @MatiBrego
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m currently looking for opportunities to learn from and work with professionals.
+- 🌱 I’m studying Software Enginering (2nd Year)
+- 📫 How to reach me:
+            >Email: matbregolinh@gmail.com 
+            >LinkedIn: https://www.linkedin.com/in/mat%C3%ADas-bregoli-a8b19a217
 
 <!---
 MatiBrego/MatiBrego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
