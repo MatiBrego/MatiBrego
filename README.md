@@ -2,10 +2,14 @@
 - 👀 I’m currently looking for opportunities to learn from and work with professionals.
 - 🌱 I’m studying Software Enginering (2nd Year)
 - 📫 How to reach me:
+
             >Email: matbregolinh@gmail.com 
+            
             >LinkedIn: https://www.linkedin.com/in/mat%C3%ADas-bregoli-a8b19a217
             
-- Visit my Portfolio! https://github.com/MatiBrego/Portfolio
+- Visit some of my projects:
+
+https://github.com/MatiBrego/wordle-clone-java - A wordle clone wrote using Java, Sping and Vaadin.
 
 <!---
 MatiBrego/MatiBrego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
