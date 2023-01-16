@@ -7,7 +7,7 @@
             
             >LinkedIn: https://www.linkedin.com/in/mat%C3%ADas-bregoli-a8b19a217
             
-- Visit some of my projects:
+- 💼 Visit some of my projects:
 
         https://github.com/MatiBrego/wordle-clone-java -> A wordle clone wrote using Java, Sping and Vaadin.
         
