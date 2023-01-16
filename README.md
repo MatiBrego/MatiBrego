@@ -10,6 +10,8 @@
 - Visit some of my projects:
 
         https://github.com/MatiBrego/wordle-clone-java -> A wordle clone wrote using Java, Sping and Vaadin.
+        
+        https://github.com/MatiBrego/weatherapp -> A simple Weather Forecast webapp using Typescript.
 
 <!---
 MatiBrego/MatiBrego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
