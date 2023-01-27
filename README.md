@@ -9,7 +9,7 @@
             
 - 💼 Visit some of my projects:
 
-        https://github.com/MatiBrego/wordle-clone-java -> A wordle clone using Java, Sping and Vaadin.
+        https://github.com/MatiBrego/wordle-clone-java -> A wordle clone using Java, Spring and Vaadin.
         
         https://github.com/MatiBrego/weatherapp -> A simple weather forecast WebApp using Typescript.
 
