@@ -9,9 +9,9 @@
             
 - 💼 Visit some of my projects:
 
-   > [Wordle Clone](https://github.com/MatiBrego/wordle-clone-java) -> A wordle clone using Java, Spring and Vaadin.
-
    > [Language Flash Card App](https://github.com/MatiBrego/flashcardapp) -> A flash card WebApp for learning languages using Typescript and React.
+
+   > [Wordle Clone](https://github.com/MatiBrego/wordle-clone-java) -> A wordle clone using Java, Spring and Vaadin.
 
    > [Weather App](https://github.com/MatiBrego/weatherapp) -> A simple weather forecast WebApp using Typescript.
         
