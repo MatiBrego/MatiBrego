@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MatiBrego
-- 👀 I’m currently looking for opportunities to learn from and work with professionals.
 - 🌱 I’m studying Software Enginering (3rd Year)
 - 📫 How to reach me:
 
