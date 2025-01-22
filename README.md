@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatiBrego
-- 🌱 I’m studying Software Enginering (4th Year)
+- 🌱 I’m studying Software Enginering (5th Year)
 - 📫 How to reach me:
 
    > Email: matbregolinh@gmail.com 
